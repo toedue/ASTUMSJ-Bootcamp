@@ -7,4 +7,4 @@ Output:
 ![image alt](https://github.com/toedue/ASTUMSJ-Bootcamp/blob/master/Task1/kawaii-todo-list/Screenshot1.png?raw=true)
 
 At first i struggled with arranging the div containers properly but after experimenting, i finally understood how they work. The CSS flex display was also tricky at the beginning but now i get it! My current challenge is making the webpage fit perfectly on phone screens, its too wide or gets cut off. I am studying more about responsive design (like @media queries) to fix this.
-![image alt](https://github.com/toedue/ASTUMSJ-Bootcamp/blob/main/Task1/kawaii-todo-list/Screenshot2.png?raw=true)
+![image alt](https://github.com/toedue/ASTUMSJ-Bootcamp/blob/master/Task1/kawaii-todo-list/Screenshot2.png?raw=true)
