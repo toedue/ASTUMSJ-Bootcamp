@@ -16,16 +16,19 @@ h1 {
   margin-bottom: 20px;
 }
 
-.form-card, .list-card {
+.form-card,
+.list-card {
   display: block;
   background: #fff;
   padding: 16px;
   margin-bottom: 16px;
   border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
   display: block;
   width: 100%;
   padding: 8px;
@@ -45,8 +48,43 @@ button {
   cursor: pointer;
 }
 
-
-.delete , .mark{
+.delete,
+.mark,
+.edit {
   margin: 20px;
+  text-align: center;
 }
 
+.mark {
+  background-color: #4caf50;
+  flex: 3;
+}
+.delete {
+  background-color: #ff4444;
+}
+
+.edit {
+  background-color: #ffbb33;
+}
+
+.delete:hover {
+  background-color: #cc0000;
+}
+
+.mark:hover {
+  background-color: #45a049;
+}
+
+.edit:hover {
+  background-color: #ff8800;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.newProject {
+  background-color: gainsboro;
+}
