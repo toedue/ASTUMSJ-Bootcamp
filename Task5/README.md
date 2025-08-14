@@ -2,7 +2,7 @@
 
 A simple web application to track and manage projects, allowing users to add, edit, delete, and mark projects as completed or ongoing.
 
-![Project Screenshot](127.0.0.1_5500_frontend_index.html(iPhone%2016%20-%201).png)
+![Project Screenshot](https://github.com/toedue/ASTUMSJ-Bootcamp/blob/master/Task5/frontend_index.html.png)
 
 ## **Features**
 1. **Add New Projects**  
